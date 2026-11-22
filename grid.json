@@ -1,0 +1,114 @@
+[
+  {
+    "word": "DMA",
+    "r": 0,
+    "c": 0,
+    "d": "V",
+    "id": 1
+  },
+  {
+    "word": "UC",
+    "r": 0,
+    "c": 2,
+    "d": "V",
+    "id": 2
+  },
+  {
+    "word": "FLASH",
+    "r": 0,
+    "c": 11,
+    "d": "V",
+    "id": 3
+  },
+  {
+    "word": "ADDRESSBUS",
+    "r": 0,
+    "c": 13,
+    "d": "V",
+    "id": 4
+  },
+  {
+    "word": "MICROCONTROLADOR",
+    "r": 1,
+    "c": 0,
+    "d": "H",
+    "id": 5
+  },
+  {
+    "word": "QUADCORE",
+    "r": 3,
+    "c": 5,
+    "d": "V",
+    "id": 6
+  },
+  {
+    "word": "REGISTRADORES",
+    "r": 3,
+    "c": 7,
+    "d": "H",
+    "id": 7
+  },
+  {
+    "word": "EEPROM",
+    "r": 3,
+    "c": 18,
+    "d": "V",
+    "id": 8
+  },
+  {
+    "word": "ULA",
+    "r": 5,
+    "c": 3,
+    "d": "H",
+    "id": 9
+  },
+  {
+    "word": "CPU",
+    "r": 5,
+    "c": 17,
+    "d": "H",
+    "id": 10
+  },
+  {
+    "word": "DATABUS",
+    "r": 6,
+    "c": 11,
+    "d": "V",
+    "id": 11
+  },
+  {
+    "word": "CACHE",
+    "r": 8,
+    "c": 7,
+    "d": "V",
+    "id": 12
+  },
+  {
+    "word": "RAM",
+    "r": 8,
+    "c": 16,
+    "d": "H",
+    "id": 13
+  },
+  {
+    "word": "MEMORIADEMASSA",
+    "r": 9,
+    "c": 1,
+    "d": "H",
+    "id": 14
+  },
+  {
+    "word": "ROM",
+    "r": 10,
+    "c": 15,
+    "d": "V",
+    "id": 15
+  },
+  {
+    "word": "DUALCORE",
+    "r": 11,
+    "c": 10,
+    "d": "H",
+    "id": 16
+  }
+]
